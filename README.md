@@ -3,7 +3,7 @@ Fallout 76 Mod Pack and Performance Booster
 
 ## Installing
 1. Download https://github.com/CrazyTeeka/Fallout76/archive/master.zip
-2. UnPack Fallout76-master.zip
+2. Unzip Fallout76-master.zip
 3. Copy these files and folders to your main Fallout76 folder (Example... D:\Fallout76):
 ```
 Data
