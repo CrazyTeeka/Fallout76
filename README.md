@@ -19,10 +19,11 @@ ReShade.ini
 ## Un-Installing
 1. Delete... Documents\My Games\Fallout 76\Fallout76Custom.ini
 2. Delete... Fallout76\reshade-shaders
-3. Delete... Fallout76\d3d11.dll
-4. Delete... Fallout76\dxgi.dll
-5. Delete... Fallout76\ReShade.ini
-6. Delete these remaining files and folders in Fallout76\Data:
+3. Delete... Fallout76\Clear'o'SeventySix.ini
+4. Delete... Fallout76\d3d11.dll
+5. Delete... Fallout76\dxgi.dll
+6. Delete... Fallout76\ReShade.ini
+7. Delete these remaining files and folders in Fallout76\Data:
 ```
 Strings
 BI.ba2
@@ -31,4 +32,4 @@ OPG.ba2
 PAL.ba2
 PLM.ba2
 ```
-7. (Optional) Delete Fallout76\Data\perkloadoutmanager.ini only if you want to lose your Perk Loadouts.
+8. (Optional) Delete Fallout76\Data\perkloadoutmanager.ini only if you want to lose your Perk Loadouts.
