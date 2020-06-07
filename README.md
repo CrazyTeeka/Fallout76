@@ -6,7 +6,7 @@ Fallout 76 Mod Pack and Performance Booster
 2. UnPack Fallout76-master.zip
 3. Copy these files and folders to your main Fallout76 folder (Example... D:\Fallout76):
 
-*Data*
+*Data*<br>
 *reshade-shaders*
 *Clear'o'SeventySix.ini*
 *d3d11.dll*
