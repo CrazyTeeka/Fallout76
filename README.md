@@ -1,5 +1,5 @@
 # Fallout76
-Fallout 76 Mod Pack
+Fallout 76 Modification Pack
 
 ## Installing
 1. Download https://github.com/CrazyTeeka/Fallout76/archive/master.zip
